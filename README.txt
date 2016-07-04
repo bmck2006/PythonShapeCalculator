@@ -1,7 +1,7 @@
 # PythonShapeCalculator
 README.txt
 
-Descriptiion:
+Description:
   The program asks the user for a shape and it's dimensions. It then calculates the area of that given shape.
 
 Instructions:
